@@ -1,0 +1,3 @@
+@echo off
+echo Opening PlayBackCSharp.sln in Visual Studio...
+start PlayBackCSharp.sln

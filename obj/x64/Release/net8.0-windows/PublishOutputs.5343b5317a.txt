@@ -1,0 +1,5 @@
+C:\Users\Jan\Downloads\General_NetSDK_Eng_Win64_IS_V3.060.0000002.0.R.251022\Demo\MfcDemo\PlayBackCSharp\bin\x64\Release\net8.0-windows\publish\PlayBackCSharp.exe
+C:\Users\Jan\Downloads\General_NetSDK_Eng_Win64_IS_V3.060.0000002.0.R.251022\Demo\MfcDemo\PlayBackCSharp\bin\x64\Release\net8.0-windows\publish\PlayBackCSharp.dll
+C:\Users\Jan\Downloads\General_NetSDK_Eng_Win64_IS_V3.060.0000002.0.R.251022\Demo\MfcDemo\PlayBackCSharp\bin\x64\Release\net8.0-windows\publish\PlayBackCSharp.deps.json
+C:\Users\Jan\Downloads\General_NetSDK_Eng_Win64_IS_V3.060.0000002.0.R.251022\Demo\MfcDemo\PlayBackCSharp\bin\x64\Release\net8.0-windows\publish\PlayBackCSharp.runtimeconfig.json
+C:\Users\Jan\Downloads\General_NetSDK_Eng_Win64_IS_V3.060.0000002.0.R.251022\Demo\MfcDemo\PlayBackCSharp\bin\x64\Release\net8.0-windows\publish\PlayBackCSharp.pdb

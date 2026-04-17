@@ -1,0 +1,59 @@
+====================================================================
+  Dahua PlayBack - C# Windows Forms Aplikace
+====================================================================
+
+PREREKVIZITY:
+-------------
+1. Visual Studio 2022 nebo novější
+2. .NET 8.0 SDK
+3. Windows 10/11 (x64)
+
+OTEVŘENÍ PROJEKTU:
+------------------
+- Poklepejte na "OpenInVisualStudio.bat" nebo
+- Poklepejte na "PlayBackCSharp.sln"
+
+BUILD:
+------
+Možnost 1: Ve Visual Studiu stiskněte F6 nebo Build > Build Solution
+Možnost 2: Poklepejte na "Build.bat"
+Možnost 3: Z příkazové řádky: dotnet build
+
+SPUŠTĚNÍ:
+---------
+Po buildu: bin\Release\net8.0-windows\PlayBackCSharp.exe
+
+DŮLEŽITÉ:
+---------
+Před spuštěním aplikace se ujistěte, že máte v adresáři
+bin\Release\net8.0-windows\ tyto DLL soubory z Dahua SDK:
+
+  - dhnetsdk.dll
+  - dhplay.dll
+  - a všechny další závislé knihovny
+
+Tyto soubory najdete v:
+  ..\..\..\Bin\Win64\
+
+FUNKCE APLIKACE:
+----------------
+1. Přihlášení k Dahua DVR/NVR zařízení
+2. Přehrávání záznamů podle času
+3. Řízení rychlosti přehrávání (0.125x - 8x)
+4. Pauza/Pokračování
+5. Zachycení snímku během přehrávání
+6. Pokročilý režim - vyhledávání a stahování záznamů
+7. Podpora dopředného i zpětného přehrávání
+
+POUŽITÍ:
+--------
+1. Spusťte aplikaci
+2. Zadejte IP adresu DVR/NVR (výchozí: 172.23.12.146)
+3. Zadejte port (výchozí: 37777)
+4. Zadejte uživatelské jméno a heslo (výchozí: admin/admin1234)
+5. Klikněte na "Login"
+6. Vyberte kanál a časový rozsah
+7. Klikněte na "Play" pro zahájení přehrávání
+8. Pro pokročilé funkce klikněte na "Advanced..."
+
+====================================================================
