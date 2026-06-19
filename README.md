@@ -46,7 +46,7 @@ If you are not using the prebuilt release and are compiling the project yourself
 
 You can download the required Dahua SDK files here:
 
-https://jtechdev.cz/go/8b1f0
+[Google Drive](https://drive.google.com/drive/folders/1-FecPF9F4U4Xf044pnS_oHqJYukIlaRm?usp=sharing)
 
 These files **must be placed in the `bin` folder** (next to the compiled executable), otherwise the application will not be able to load the required Dahua libraries at runtime.
 
